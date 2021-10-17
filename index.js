@@ -1,4 +1,4 @@
-const Discord = require("discord.js");
+const Discord = require("discord.js"); 
 const client = new Discord.Client();
 var config = require("./config.json");
 const whois = require('whois-json');
